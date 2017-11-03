@@ -1,0 +1,6 @@
+[
+	{ 
+		"keys": ["alt+t"],
+		"command": "win_terminal"
+	},
+]

@@ -1,0 +1,10 @@
+{
+	// [""]					terminal opened at	/ProjectRootFolder
+	//
+	// ["client"]			terminal opened at	/ProjectRootFolder/client
+	//
+	//["client", "server"]	terminal opened at	/ProjectRootFolder/client
+	//											/ProjectRootFolder/server
+	//By default opens in root folder
+	"folders": []
+}
