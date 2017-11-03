@@ -1,20 +1,20 @@
 ### Examples
 value - result path that will be opened in cmd.exe
 ```
-[]				-	/projectRoot
+[]              -   /projectRoot
 
-["client"]		-	/projectRoot/client
+["client"]      -   /projectRoot/client
 
-["", "client"]	-	/projectRoot/
-				-	/projectRoot/client
+["", "client"]  -   /projectRoot/
+                -   /projectRoot/client
 ```
 
 ### Settings
 ```
 {
-	"folders": []
+    "folders": []
 }
 ```
 
 ### Hotkeys
-'ALT+T' Open terminal
+ALT+T   Open terminal
