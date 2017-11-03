@@ -7,7 +7,7 @@
 
 ### Examples
 ```
-*folders* value - result path that will be opened in cmd.exe
+folders value   -   result path that will be opened in cmd.exe
 
 []              -   /projectRoot
 
