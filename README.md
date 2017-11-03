@@ -1,13 +1,20 @@
-#### Examples
-Terminal will be opened at path you give in settings
-*rwqr*
+### Examples
+value - result path that will be opened in cmd.exe
+```
+[]				-	/projectRoot
 
-#### Settings
+["client"]		-	/projectRoot/client
+
+["", "client"]	-	/projectRoot/
+				-	/projectRoot/client
+```
+
+### Settings
 ```
 {
 	"folders": []
 }
 ```
 
-#### Hotkeys
+### Hotkeys
 'ALT+T' Open terminal
